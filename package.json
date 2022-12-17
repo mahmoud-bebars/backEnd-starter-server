@@ -1,7 +1,7 @@
 {
   "name": "auth_backend_server",
   "version": "0.1.0",
-  "description": "",
+  "description": "backend-server for Authentication & authorization with NodeJs & TypesCript powered by ExpressJs & PostgresSQL",
   "main": "server.ts",
   "scripts": {
     "start": "npm install && nodemon src/server.ts",
